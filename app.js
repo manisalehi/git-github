@@ -1,2 +1,2 @@
 console.log("Hello, World!");
-console.log("Hello, fellow developers!");
+console.log("Hello, fellow students!");
